@@ -1,0 +1,20 @@
+{
+  "name": "jetstream",
+  "version": "0.0.1",
+  "description": "Link your Tailwind config to an Adobe XD project",
+  "main": "main.js",
+  "author": "Tony Ketcham <ketcham.dev@gmail.com>",
+  "license": "Apache",
+  "scripts": {
+    "start": "snowpack dev",
+    "build": "snowpack build"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.2.5",
+    "postcss": "^8.2.8",
+    "tailwindcss": "^2.0.3"
+  },
+  "devDependencies": {
+    "snowpack": "^3.0.13"
+  }
+}
