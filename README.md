@@ -1,4 +1,4 @@
-# Jetstream
+# Jetstream 🍃
 
 This is an Adobe XD plugin for Tailwind 2, keen on importing Tailwind config to your XD workspace.
 
@@ -8,13 +8,13 @@ The goal for this project would be the ability to link your project's Tailwind c
 
 Perhaps a future application of the plugin could reach beyond color to help designers craft a congruent design system for better development handoff.
 
-## Functions
+## 🛠️ Functions
 ### Generate color assets
 ![image](https://user-images.githubusercontent.com/43280336/111012036-22921f00-8361-11eb-9cbc-47f59a063bae.png)
 ### Generate swatches
 ![image](https://user-images.githubusercontent.com/43280336/111012005-02626000-8361-11eb-8836-7d0a69b09b88.png)
 
-## Installation & Use (& Contributing)
+## 📥 Installation & Use (& Contributing)
 Since this is not yet published on the XD plugin marketplace, you must set this plugin up in the development state.
 1. In XD, go to `File > Plugins > Development > Show Develop Folder`
 2. Open your terminal in the given directory XD opens.
