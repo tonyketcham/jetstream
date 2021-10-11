@@ -6,7 +6,7 @@ At the moment, it only supports pulling the Tailwind colorspace and either gener
 
 The goal for this project would be the ability to link your project's Tailwind config file to pull in your declared color assets/palette.
 
-Perhaps a future application of the plugin could reach beyond color to help designers craft a congruent design system for better development handoff.
+Perhaps a future application of the plugin could enable an isomorphic system for better development handoff.
 
 ## 🛠️ Functions
 ### Generate color assets
